@@ -1,0 +1,16 @@
+langchain 
+langgraph 
+langchain_openai
+chromadb
+beautifulsoup4
+ragas 
+arxiv 
+rich 
+sec-api 
+unstructured[html] 
+tavily-python
+langchain_community
+langchain_core
+sentence-transformers
+lxml
+rank_bm25

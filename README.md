@@ -4,7 +4,7 @@
 
 This project demonstrates the evolution from basic RAG (Retrieval-Augmented Generation) to sophisticated agentic reasoning systems. It explores the limitations of traditional similarity-based retrieval and introduces autonomous agents capable of multi-step reasoning, dynamic planning, and cross-source synthesis.
 
-## Main.py Program Structure - First Section Description
+## Project Description
 
 ### 1. Introduction: The Limits of Shallow RAG
 
